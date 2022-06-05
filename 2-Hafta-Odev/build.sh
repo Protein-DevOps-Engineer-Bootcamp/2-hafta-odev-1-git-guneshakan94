@@ -1,4 +1,10 @@
 #!/bin/bash
+
+#############################################
+# Author        : Hakan Güneş	            #
+# Email         : guneshakan94@gmail.com    #
+#############################################
+
 #################help################
 if [[ "$1" == "--help" ]];
 then
@@ -90,5 +96,3 @@ else
     Echo "You have entered the invalid type."
 fi
 #################compress################
-
-
